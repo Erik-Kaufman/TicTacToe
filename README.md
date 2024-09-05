@@ -1,4 +1,4 @@
-#TicTacToe
+# TicTacToe
 This is a simple python project to help me learn about games with code.
 
 Goals:
