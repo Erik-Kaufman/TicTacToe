@@ -13,4 +13,5 @@ class board():
     # initilization
     def __init__(self):
         # size = 3
+        # zero is empty, one is X two is O
         board = [[0,0,0],[0,0,0],[0,0,0]]
